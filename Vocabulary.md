@@ -1,0 +1,7 @@
+# Vocabulary
+
+| Word | Explanation | Descrption |
+| ---- | ---- | ---- |
+|      |      |      |
+|      |      |      |
+|      |      |      |
