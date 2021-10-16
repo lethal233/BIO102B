@@ -1,0 +1,11 @@
+lecture/
+
+pictures/
+
+生物题库/
+
+*.md
+
+*.pdf
+
+!BIO102Assignment1.pdf
